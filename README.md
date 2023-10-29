@@ -4,6 +4,7 @@ Répertoire permettant le partage du devoir de R pour le groupe : Lison, Philipp
 Dans ce répertoire vous trouverez :
 
   - Base de l'application
+  - Lien vers l'application 
   - Code R
   - Données CSV
   - Images implantées
